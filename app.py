@@ -1,1 +1,1 @@
-prueba_texto
+print("Hola desde main")
